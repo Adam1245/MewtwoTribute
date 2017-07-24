@@ -1,0 +1,41 @@
+<div class="container">
+  <div class="jumbotron">
+    <div class="row">
+      <div class="col-xs-14">
+        <h1 class="text-center"> Mewtwo </h1>
+        <h1 class="text-center">  one of the rarest — and hardest to catch </h1>
+        <div class="img-container"><img src= https://upload.wikimedia.org/wikipedia/en/4/43/Pok%C3%A9mon_Mewtwo_art.png>
+          <hr>
+          <div class="caption text-center"> Mewtwo is a Psychic-type Legendary Pokémon introduced in Generation I. While it is not known to evolve into or from any other Pokémon, it can Mega Evolve into two different forms: Mega Mewtwo X using Mewtwonite X and Mega Mewtwo Y using Mewtwonite
+            Y. </div>
+        </div>
+        <br>
+        <div class=" themeat" <h3> <strong> Here are some more information about Mewtwo, and some inspirational qoutes: </h3>
+
+    <li><strong> So, this is my power... but what is my purpose?
+      </li>
+      <br></br>
+    <li><strong>
+      So I am simply the end result of your experiment. What becomes of me now that your experiment is over?
+Scientist: Oh our experiment isn't over yet, it's just beginning. Now the serious testing begins! </li>
+      <br></br>
+  <li><strong>
+    “I see now that the circumstances of one's birth are irrelevant. It is what you do with the gift of life that determines who you are.” </li>
+    <br></br>
+  <li><strong> Enough! We are what we are. We will stay here and live in peace, if we can.</li>
+    <br></br>
+  <li><strong>There is nothing to be gained from such battling. You are the same as the other Pokèmon. Neither stronger nor weaker. You proved that the last time we met.</li>
+    <br></br>
+<li><strong> I searched for a place to live in secret and in peace. Now these humans have found us again. Perhaps we shall never find peace.</li>
+  <br></br>
+<li><strong> You will not defile this place. It does not belong to you, anymore than I do. This place has given me new life. Now I shall use all of my power to defend it.</li>
+  <h3> If you're interested in reading more about Mewtwo, visit Mewtwo's <a href="https://en.wikipedia.org/wiki/Mewtwo" target="_blank"> Wikipedia page</a>.</h3>
+</div>
+</div>
+</div>
+</div>
+<footer class="text-center">
+  <hr>
+  <p style="color: white;">Coded by <a href="https://www.freecodecamp.com/adam1245" target="_blank"> Monk </a>.</p>
+</footer>
+</div>

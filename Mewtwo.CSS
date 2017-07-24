@@ -1,0 +1,63 @@
+body {
+  margin-top:60px;
+background-color: black;
+}
+
+
+
+.container{ padding-right:15px;
+  padding-left:15px;
+  margin-right:auto;
+  margin-left:auto;
+  }
+
+.text-center{
+  text-align:center;
+}
+
+.img-container{
+  text-align:center;
+}
+
+.caption text-center{
+  text-align:center;
+}
+
+
+
+.jumbotron{
+  padding-top:48px;
+  padding-bottom:48px;
+  margin-bottom:48px;
+  background-color:#b19cd9;
+  padding-left:60px;
+  padding-right:60px;
+
+
+}
+
+.h1, .h2, .h3{
+  margin-top:20px;
+  margin-bottom:10px;
+}
+
+.row{ margin-right: -15px;
+      margin-left: -15px;
+
+
+}
+
+
+
+.col-xs-12{
+  width: 100%
+    text-align:center;
+}
+
+.themeat{
+  text-align:center;
+}
+
+.li{
+  text-align:center;
+}
